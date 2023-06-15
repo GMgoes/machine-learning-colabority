@@ -2,6 +2,12 @@
 
 This project aims to consolidate the algorithms developed for the implementations and plotting of machine learning developed on campus.
 
+Basement:
+
+Acknowledgement: <br>
+Gedson Faria <br>
+Priscila Silva Martins <br>
+
 Technologies: <br><br>
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
