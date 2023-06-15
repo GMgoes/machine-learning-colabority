@@ -2,7 +2,7 @@
 
 This project aims to consolidate the algorithms developed for the implementations and plotting of machine learning developed on campus.
 
-Basement:
+Basement: <br><br>
 
 Acknowledgement: <br>
 Gedson Faria <br>
