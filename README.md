@@ -5,8 +5,8 @@ This project aims to consolidate the algorithms developed for the implementation
 Basement: <br><br>
 
 Acknowledgement: <br>
-Gedson Faria <br>
-Priscila Silva Martins <br>
+[Gedson Faria](https://www.linkedin.com/in/gedson-faria-078901126/) <br>
+[Priscila Silva Martins](https://www.linkedin.com/in/prismart/) <br>
 
 Technologies: <br><br>
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
